@@ -1,0 +1,2 @@
+https://datatofish.com/k-means-clustering-python/
+cols = ['Papel', 'P/L', 'P/VP', 'PSR', 'P/Ativo', 'P/Cap.Giro', 'P/EBIT', 'P/Ativ Circ.Liq', 'EV/EBIT', 'Liq. Corr.', 'Dív.Brut/ Patrim.']
